@@ -269,7 +269,7 @@ export default function Home() {
           {/* <span style={{ color: "white" }}>{numTokenMinted} Token Minted</span> */}
 
           <h3 style={{ color: "white" }}>
-            {numTokenMinted}/30 have been minted already
+            {numTokenMinted} have been minted already
           </h3>
           {renderButton()}
           {/* 
